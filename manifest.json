@@ -1,0 +1,15 @@
+{
+  "short_name": "Chat with your Document",
+  "name": "Webapp for Chat with your Document Showcase",
+  "icons": [
+    {
+      "src": "aclue.svg",
+      "type": "image/svg",
+      "sizes": "235x291"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

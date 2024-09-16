@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chat_doc_gh_page/static/css/main.d10ce6ef.css",
+    "main.js": "/chat_doc_gh_page/static/js/main.4724a82a.js",
+    "static/media/Garet-Book.ttf": "/chat_doc_gh_page/static/media/Garet-Book.bcff079c9316cbf56de2.ttf",
+    "static/media/aclue_logo.png": "/chat_doc_gh_page/static/media/aclue_logo.d3aac28780b5f0fe9396.png",
+    "index.html": "/chat_doc_gh_page/index.html",
+    "main.d10ce6ef.css.map": "/chat_doc_gh_page/static/css/main.d10ce6ef.css.map",
+    "main.4724a82a.js.map": "/chat_doc_gh_page/static/js/main.4724a82a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d10ce6ef.css",
+    "static/js/main.4724a82a.js"
+  ]
+}
