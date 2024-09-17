@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gh_page_chat_doc/static/css/main.e89db575.css",
-    "main.js": "/gh_page_chat_doc/static/js/main.58ecb951.js",
-    "static/media/Garet-Book.ttf": "/gh_page_chat_doc/static/media/Garet-Book.bcff079c9316cbf56de2.ttf",
-    "static/media/aclue_logo.png": "/gh_page_chat_doc/static/media/aclue_logo.d3aac28780b5f0fe9396.png",
-    "index.html": "/gh_page_chat_doc/index.html",
-    "main.e89db575.css.map": "/gh_page_chat_doc/static/css/main.e89db575.css.map",
-    "main.58ecb951.js.map": "/gh_page_chat_doc/static/js/main.58ecb951.js.map"
+    "main.css": "/public_showcase_chat_doc/static/css/main.6f40a02a.css",
+    "main.js": "/public_showcase_chat_doc/static/js/main.3d38f674.js",
+    "static/media/Garet-Book.ttf": "/public_showcase_chat_doc/static/media/Garet-Book.bcff079c9316cbf56de2.ttf",
+    "static/media/aclue_logo.png": "/public_showcase_chat_doc/static/media/aclue_logo.d3aac28780b5f0fe9396.png",
+    "index.html": "/public_showcase_chat_doc/index.html",
+    "main.6f40a02a.css.map": "/public_showcase_chat_doc/static/css/main.6f40a02a.css.map",
+    "main.3d38f674.js.map": "/public_showcase_chat_doc/static/js/main.3d38f674.js.map"
   },
   "entrypoints": [
-    "static/css/main.e89db575.css",
-    "static/js/main.58ecb951.js"
+    "static/css/main.6f40a02a.css",
+    "static/js/main.3d38f674.js"
   ]
 }
